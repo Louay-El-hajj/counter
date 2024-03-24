@@ -1,0 +1,13 @@
+div {
+    padding: 2px;
+    margin-left: 15px;
+}
+
+button {
+    margin: 3px;
+}
+.App{
+    font-weight: bolder;
+    margin-right: 1px;
+    padding-right: 1px;
+}
